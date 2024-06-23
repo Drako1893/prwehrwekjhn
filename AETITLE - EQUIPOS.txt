@@ -1,0 +1,25 @@
+
+
+
+AETITLE          =  EQUIPO
+
+      RESONANCIA (RM)
+AWP212012        =  SKYRA FIT
+AN_MEDICOMNT204  =  SKYRA
+Prodiva1.5T      =  PRODIVA
+OPTIMA           =  OPTIMA
+
+       TOMOGRAFIA (CT)
+ 
+revomax_dpi     = REVOLUTION MAXIMA
+
+
+       RADIOGRAFIA (RX)
+
+DRX1           = FLAT PANEL 
+
+
+	  MAMOGRAFIA (MG) 
+
+CRCLASSIC     =   DIGITALIZADOR
+VXvueMammo    =   FLAT PANEL MAMOGRAFO
